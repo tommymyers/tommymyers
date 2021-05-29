@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hi, I'm Tommy 👋🏻
+
+I have an interest in lots of things tech like software development, PCs, Macs, keyboards, hobbyist electronics.
+
+### 🔭 Currently...
+
+- 🌱 I'm learning **ReactJS** through the [Full Stack open 2021](https://fullstackopen.com/en/)
+
+### 💪🏻 My Skills
+
+- 🤓 Some languages I know **Java**, **Python**, **JavaScript**, **HTML/CSS**
+- 🛠 I use **Git**, **VSCode**, **IntelliJ**
+
+### 👏🏻 My Achievements
+
+- 2009: Learnt iOS Development, started a YouTube channel
 
 <!--
 **tommymyers/tommymyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
