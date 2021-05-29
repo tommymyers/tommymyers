@@ -1,6 +1,6 @@
 ## Hi, I'm Tommy 👋🏻
 
-I have an interest in lots of things tech like software development, PCs, Macs, keyboards, hobbyist electronics.
+I have an interest in all things tech like software development, PCs, Macs, keyboards, hobbyist electronics.
 
 ### 🔭 Currently...
 
@@ -8,12 +8,13 @@ I have an interest in lots of things tech like software development, PCs, Macs, 
 
 ### 💪🏻 My Skills
 
-- 🤓 Some languages I know **Java**, **Python**, **JavaScript**, **HTML/CSS**
+- 🤓 Some languages I know **Java**, **Python**, **JavaScript**, **HTML**, **CSS**
 - 🛠 I use **Git**, **VSCode**, **IntelliJ**
 
 ### 👏🏻 My Achievements
 
 - 2009: Learnt iOS Development, started a YouTube channel
+- 2010: Published an app to the iOS App Store
 
 <!--
 **tommymyers/tommymyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
